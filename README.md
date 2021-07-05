@@ -10,7 +10,7 @@ This repository maintains a list of papers that our lab looks into.
 </table>
 
 
-## [Hoang Le's work](#content)
+## [Trung Le's work](#content)
 ### [Courses](#content)
 1. **Automated Reasoning., UCLA** [Link](https://www.youtube.com/playlist?list=PLlDG_zCuBub5AyHuxnw8vfgx7Wd-P-4XN)
 2. **CS224W: Machine Learning with Graphs., Stanford** [Link](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
