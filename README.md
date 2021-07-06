@@ -36,11 +36,6 @@ This repository maintains a list of papers that our lab looks into.
 
     *Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric P. Xing*
 
-1. **Knowledge-oriented Convolutional Neural Network for Causal
-Relation Extraction from Natural Language Texts** Expert Systems With Applications 2018, [paper](https://drive.google.com/file/d/1GSvIl-1TY7jZPFFCuzmZTRjSbdzrqSou/view?usp=sharing)
-
-    *Pengfei Li, Kezhi Mao*
-
 
 ### [Neural Relation Extraction (NLP)](#content)
 1. **Neural relation extraction: a survey** arXiv, 2020, [paper](https://arxiv.org/abs/2007.04247)
@@ -48,7 +43,12 @@ Relation Extraction from Natural Language Texts** Expert Systems With Applicatio
     *Mehmet Aydar, Ozge Bozal, Furkan Ozbay*
 
 1. **NLP-progress: Relationship Extraction** [Link](http://nlpprogress.com/english/relationship_extraction.html)
-1. **RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network**, *SOTA in RE*, WWW'2021 [paper](https://arxiv.org/pdf/2009.08694)
+
+1. **Knowledge Graph Embedding: A Survey of Approaches and Applications** [Link](https://persagen.com/files/misc/Wang2017Knowledge.pdf)
+
+    *Quan Wang, Zhendong Mao, Bin Wang, and Li Guo*
+
+3. **RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network**, *SOTA in RE*, WWW'2021 [paper](https://arxiv.org/pdf/2009.08694)
     
     *Anson Bastos, Abhishek Nadgeri, Kuldeep Singh, Isaiah Onando Mulang’, Saeedeh Shekarpour, Johannes Hoffart, Manohar Kaul*
 
