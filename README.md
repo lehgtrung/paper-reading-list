@@ -59,5 +59,12 @@ This repository maintains a list of papers that our lab looks into.
 1. **Neural Relation Extraction with Selective Attention over Instances**, *SOTA in BioRel*, ACL'2016 [paper](https://www.aclweb.org/anthology/P16-1200/)
     
     *Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, Maosong Sun*
+    
+   
+#### Knowledge graph Entity Type
+
+#### Knowledge graph Relation Path
+
+#### Logical rules in Knowledge graph
 
 
