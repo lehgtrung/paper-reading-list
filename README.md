@@ -39,7 +39,7 @@ This repository maintains a list of papers that our lab looks into.
 
 ### [Neural Relation Extraction (NLP)](#content)
 
-#### [Survey and general methods]
+#### Survey and general methods
 1. **Neural relation extraction: a survey** arXiv, 2020, [paper](https://arxiv.org/abs/2007.04247)
 
     *Mehmet Aydar, Ozge Bozal, Furkan Ozbay*
@@ -54,7 +54,7 @@ This repository maintains a list of papers that our lab looks into.
     
     *Anson Bastos, Abhishek Nadgeri, Kuldeep Singh, Isaiah Onando Mulang’, Saeedeh Shekarpour, Johannes Hoffart, Manohar Kaul*
 
-#### [Distance supervsion]
+#### Distance supervsion
 
 1. **Neural Relation Extraction with Selective Attention over Instances**, *SOTA in BioRel*, ACL'2016 [paper](https://www.aclweb.org/anthology/P16-1200/)
     
