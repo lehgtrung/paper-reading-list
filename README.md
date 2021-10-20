@@ -18,8 +18,8 @@ This repository maintains a list of papers that our lab looks into.
     * [Homeworks](https://github.com/lehgtrung/UCLA-CS264A-Fall2020)
 
 3. **CS224W: Machine Learning with Graphs., Stanford** 
- 1. [Youtube playlist](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
- 2. [Website](http://web.stanford.edu/class/cs224w/)
+    * [Youtube playlist](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+    * [Website](http://web.stanford.edu/class/cs224w/)
 ### [Neural-sympolic Learning](#content)
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** ICLM'2020, [paper](https://arxiv.org/abs/1711.11157)
 
