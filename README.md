@@ -65,8 +65,9 @@
 1. **Knowledge Graph Embedding: A Survey of Approaches and Applications** TKDE, 2017 [Link](https://persagen.com/files/misc/Wang2017Knowledge.pdf)
 
     *Quan Wang, Zhendong Mao, Bin Wang, and Li Guo*
-1. **A Survey on Knowledge Graphs: Representation, Acquisition, and Applications**, 2021, IEEE, [Link](https://ieeexplore.ieee.org/abstract/document/9416312)
+1. **A Survey on Knowledge Graphs: Representation, Acquisition, and Applications**, 2021, IEEE Transactions on Neural Networks and Learning Systems, [Link](https://ieeexplore.ieee.org/abstract/document/9416312)
     
+    *S. Ji, S. Pan, E. Cambria, P. Marttinen and P. S. Yu
 
 
 
