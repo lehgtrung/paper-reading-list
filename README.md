@@ -34,7 +34,7 @@
 
     *Yaqi Xie, Ziwei Xu, Mohan S Kankanhalli, Kuldeep S. Meel, Harold Soh* 
     
-    **Summary**: 
+    **Summary**: [Chris's Blog](http://christopher5106.github.io/deep/learning/2020/02/26/symbolic_knowledge_in_deep_networks.html)
 
 1. **NeurASP: Embracing Neural Networks into Answer Set Programming** IJCAI-2020, [paper](https://www.ijcai.org/proceedings/2020/0243.pdf)
 
