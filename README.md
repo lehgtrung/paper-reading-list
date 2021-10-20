@@ -68,6 +68,10 @@
 1. **A Survey on Knowledge Graphs: Representation, Acquisition, and Applications**, 2021, IEEE Transactions on Neural Networks and Learning Systems, [Link](https://ieeexplore.ieee.org/abstract/document/9416312)
     
     *S. Ji, S. Pan, E. Cambria, P. Marttinen and P. S. Yu*
+    
+1. **A Roadmap to Domain Knowledge Integration in Machine Learning**, 2020, IEEE International Conference on Knowledge Graph, [Link](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/9194557)
+    
+    *H. D. Gupta and V. S. Sheng*
 
 
 
