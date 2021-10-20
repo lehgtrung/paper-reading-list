@@ -34,7 +34,8 @@
 
     *Yaqi Xie, Ziwei Xu, Mohan S Kankanhalli, Kuldeep S. Meel, Harold Soh* 
     
-    <img src="https://raw.githubusercontent.com/lehgtrung/paper-reading-list/main/Screenshot%20from%202021-10-06%2021-43-01.png?token=AKIJDHC7WPEPVRJ5YT35EGTBN7OKK" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/lehgtrung/paper-reading-list/main/Screenshot%20from%202021-10-06%2021-43-01.png?token=AKIJDHC7WPEPVRJ5YT35EGTBN7OKK" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="200" />
+    
     Summary: The task that LENSR tried to solve was “Visual relation prediction”, given an image and 2 objects, we must predict the relationship between them. For example, in the image above, given two objects “person” and “helmet”, we must predict the relationship “person-wear-helmet”. Based on the spatial knowledge we know about the relationship, for example, we know that if an object A has the relationship “wear” with an object B then B must be above and overlap with A. LENRS takes advantage of these knowledge which is encoded as a logic formula and convert the formula into a graph. With the logic formula graph, the authors model them with Graph Neural Networks. This step is called “Logic embedding”. The encoded knowledge can serve as a regularization (the logic loss in the figure) to guide the model to make better prediction without consuming lots of data. Furthermore, LENSR can automatically extract those rules based on the ground truth labels themselves. LENSR defines the spatial relationship as in the following figure: 
 
 1. **NeurASP: Embracing Neural Networks into Answer Set Programming** IJCAI-2020, [paper](https://www.ijcai.org/proceedings/2020/0243.pdf)
