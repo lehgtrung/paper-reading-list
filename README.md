@@ -23,14 +23,18 @@
     * [Course page](https://gnn.seas.upenn.edu/lectures/)
 
 ## Papers
-### [Neural-sympolic Learning]
+### Neural-sympolic Learning
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** ICLM'2020, [paper](https://arxiv.org/abs/1711.11157)
 
     *Jingyi Xu 1 Zilu Zhang 2 Tal Friedman 1 Yitao Liang 1 Guy Van den Broeck*
+    
+    Summary: TODO
 
 1. **Embedding Symbolic Knowledge into Deep Networks** NeurIPS'2019, [paper](https://arxiv.org/abs/1909.01161)
 
     *Yaqi Xie, Ziwei Xu, Mohan S Kankanhalli, Kuldeep S. Meel, Harold Soh* 
+    
+    Summary: TODO
 
 1. **NeurASP: Embracing Neural Networks into Answer Set Programming** IJCAI-2020, [paper](https://www.ijcai.org/proceedings/2020/0243.pdf)
 
@@ -45,7 +49,7 @@
     *Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric P. Xing*
 
 
-### [Neural Relation Extraction (NLP)]
+### Neural Relation Extraction (NLP)
 
 
 
