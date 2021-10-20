@@ -12,8 +12,13 @@ This repository maintains a list of papers that our lab looks into.
 
 ## [Trung Le's work](#content)
 ### [Courses](#content)
-1. **Automated Reasoning., UCLA** [Link](https://www.youtube.com/playlist?list=PLlDG_zCuBub5AyHuxnw8vfgx7Wd-P-4XN)
-2. **CS224W: Machine Learning with Graphs., Stanford** [Link](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+1. **CS264A Automated Reasoning., UCLA** 
+[Youtube playlist](https://www.youtube.com/playlist?list=PLlDG_zCuBub5AyHuxnw8vfgx7Wd-P-4XN)
+[Review Note](http://web.cs.ucla.edu/~patricia.xiao/files/CS264A_Review_Note_midterm.pdf)
+[Homeworks](https://github.com/lehgtrung/UCLA-CS264A-Fall2020)
+
+3. **CS224W: Machine Learning with Graphs., Stanford** 
+[Youtube playlist](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
 ### [Neural-sympolic Learning](#content)
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** ICLM'2020, [paper](https://arxiv.org/abs/1711.11157)
