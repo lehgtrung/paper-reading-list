@@ -72,7 +72,7 @@
 
     *Linfeng Song, Yue Zhang, Daniel Gildea, Mo Yu, Zhiguo Wang and Jinsong Su*
     
-1. **NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction** WWWW, 2020, [paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380282?casa_token=EG99P8GVg3YAAAAA:murAb5vGtRdfBmdyJCklQ0jloTi46mdbbFXLSWUjjsNzEhPuWmNONTEgisCrjnepF96dyFeeN76Isg)
+1. **NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction** WWWW, 2020, [paper](https://arxiv.org/pdf/1909.02177.pdf)
 
     *Wenxuan Zhou, Hongtao Lin,  Bill Yuchen Lin, Ziqi Wang*
 
