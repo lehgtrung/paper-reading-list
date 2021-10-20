@@ -65,9 +65,8 @@
 1. **Knowledge Graph Embedding: A Survey of Approaches and Applications** TKDE, 2017 [Link](https://persagen.com/files/misc/Wang2017Knowledge.pdf)
 
     *Quan Wang, Zhendong Mao, Bin Wang, and Li Guo*
-
-3. **RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network**, *SOTA in RE*, WWW'2021 [paper](https://arxiv.org/pdf/2009.08694)
+1. **A Survey on Knowledge Graphs: Representation, Acquisition, and Applications**, 2021, IEEE, [Link](https://ieeexplore.ieee.org/abstract/document/9416312)
     
-    *Anson Bastos, Abhishek Nadgeri, Kuldeep Singh, Isaiah Onando Mulang’, Saeedeh Shekarpour, Johannes Hoffart, Manohar Kaul*
+
 
 
