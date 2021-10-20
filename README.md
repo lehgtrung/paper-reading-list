@@ -1,17 +1,11 @@
-# paper-reading-list
+# papers-courses-books
 
 # papers
-This repository maintains a list of papers that our lab looks into. 
 
-## [Content](#content)
-
-<table>
-<tr><td colspan="2"><a href="#Trung">1. Hoang Le's work</a></td></tr>
-</table>
+# books
 
 
-## [Trung Le's work](#content)
-### [Courses](#content)
+# courses
 1. **CS264A Automated Reasoning., UCLA** 
     * [Youtube playlist](https://www.youtube.com/playlist?list=PLlDG_zCuBub5AyHuxnw8vfgx7Wd-P-4XN)
     * [Review Note](http://web.cs.ucla.edu/~patricia.xiao/files/CS264A_Review_Note_midterm.pdf)
