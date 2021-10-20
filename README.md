@@ -52,7 +52,29 @@
 
 
 ### Neural Relation Extraction (NLP)
+1. **Graph Convolution over Pruned Dependency Trees Improves Relation Extraction** ACL, 2018, [paper](https://arxiv.org/pdf/1809.10185.pdf)
 
+    *Yuhao Zhang,* Peng Qi,* Christopher D. Manning*
+    
+1. **Attention Guided Graph Convolutional Networks for Relation Extraction** ACL, 2019, [paper](https://aclanthology.org/P19-1024.pdf)
+
+    *Zhijiang Guo, Yan Zhang and Wei Lu*
+    
+1. **Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks** ACL, 2020, [paper](https://aclanthology.org/2020.acl-main.297.pdf)
+
+    *Bo Zhang, Yue Zhang, Rui Wang, Zhenghua Li, Min Zhang*
+    
+1. **Learning Latent Forests for Medical Relation Extraction** IJCAI, 2020, [paper](https://www.ijcai.org/Proceedings/2020/0505.pdf)
+
+    *Zhijiang Guo1, Guoshun Nan, Wei Lu and Shay B. Cohen*
+    
+1. **Leveraging Dependency Forest for Neural Medical Relation Extraction** EMNLP, 2019, [paper](https://arxiv.org/pdf/1911.04123.pdf)
+
+    *Linfeng Song, Yue Zhang, Daniel Gildea, Mo Yu, Zhiguo Wang and Jinsong Su*
+    
+1. **NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction** WWWW, 2020, [paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380282?casa_token=EG99P8GVg3YAAAAA:murAb5vGtRdfBmdyJCklQ0jloTi46mdbbFXLSWUjjsNzEhPuWmNONTEgisCrjnepF96dyFeeN76Isg)
+
+    *Wenxuan Zhou, Hongtao Lin,  Bill Yuchen Lin, Ziqi Wang*
 
 
 ### Survey and general methods
