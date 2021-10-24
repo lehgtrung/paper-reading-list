@@ -115,5 +115,8 @@
     
     *H. D. Gupta and V. S. Sheng*
 
-
+### Awesome githubs
+1. **Active learning**, https://github.com/yongjin-shin/awesome-active-learning
+2. **Few-shot learning**, https://github.com/Bryce1010/Awesome-Few-shot
+3. **Transfer learning**, https://github.com/artix41/awesome-transfer-learning
 
