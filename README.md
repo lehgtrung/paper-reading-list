@@ -23,6 +23,24 @@
     * [Course page](https://gnn.seas.upenn.edu/lectures/)
 
 ## Papers
+
+### Abductive learning
+1. **Abductive Knowledge Induction From Raw Data** IJCAI 2020, [paper](https://arxiv.org/pdf/2010.03514.pdf)
+    *Wang-Zhou Dai , Stephen H. Muggleton*
+    
+    Summary: TODO
+    
+1. **Abductive learning: towards bridging machine learning and logical reasoning** 2019, [paper](http://scis.scichina.com/en/2019/076101.pdf)
+    *Zhi-Hua ZHOU*
+    
+    Summary: TODO
+    
+1. **Semi-Supervised Abductive Learning and Its Application to Theft Judicial Sentencing** ICDM 2020, [paper](https://cs.nju.edu.cn/liyf/paper/icdm20-SSABL.pdf)
+
+    *Yu-Xuan Huang et al*
+    
+    Summary: TODO
+
 ### Neural-sympolic Learning
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** ICLM'2020, [paper](https://arxiv.org/abs/1711.11157)
 
