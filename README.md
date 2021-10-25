@@ -95,6 +95,11 @@
 1. **NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction** WWWW, 2020, [paper](https://arxiv.org/pdf/1909.02177.pdf)
 
     *Wenxuan Zhou, Hongtao Lin,  Bill Yuchen Lin, Ziqi Wang*
+    
+### Visual Relation Extraction (CV)
+1. **Compensating Supervision Incompleteness with Prior Knowledge in Semantic Image Interpretation** IJCNN 2019 [paper](https://arxiv.org/pdf/1910.00462v1.pdf)
+
+   *Ivan Donadello, Luciano Serafini*
 
 
 ### Survey and general methods
