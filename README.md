@@ -119,6 +119,15 @@
 1. **A Roadmap to Domain Knowledge Integration in Machine Learning**, 2020, IEEE International Conference on Knowledge Graph, [Link](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/9194557)
     
     *H. D. Gupta and V. S. Sheng*
+    
+### Answer Set Programming
+1. **What Is Answer Set Programming?**, [paper](https://www.cs.utexas.edu/users/vl/papers/wiasp.pdf)
+
+   *Vladimir Lifschitz*
+   
+1. **Answer Set Programming: Basics**, [paper](https://iccl.inf.tu-dresden.de/w/images/1/1a/FLP-ASP-L1.pdf)
+
+   *Sebastian Rudolph*
 
 ### Awesome githubs
 1. **Active learning**, https://github.com/yongjin-shin/awesome-active-learning
