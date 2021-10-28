@@ -135,3 +135,11 @@
 3. **Transfer learning**, https://github.com/artix41/awesome-transfer-learning
 4. **Knowledge distillation**, https://github.com/FLHonker/Awesome-Knowledge-Distillation
 
+## Insights
+
+### Neural-symbollic integration
+Learning with rules: The core idea of neural symbollic integration is that we use rules to eliminate hypothesises that are inconsistent with the KB (the same idea as ASP). Therefore, we can maximize the learning capability of machine learning models since the KB has tighten the search space of the model.
+
+The rules we are trying to incoporate should be in form of integrity constrains which means a list conjunct literals that implies FALSE. For example, in Visual Relationship Detection (VDR) the visual relationship <person, ride, horse> is expressed with the atomic formulas Person(p1), Horse(h1) and ride(p1, h1). Common knowledge is expressed through logical constraints, e.g., ∀x, y(ride(x, y) → ¬Dog(x)) states that dogs do not ride.
+
+
