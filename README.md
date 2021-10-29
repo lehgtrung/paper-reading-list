@@ -24,6 +24,11 @@
 
 ## Papers
 
+### Classical semi supervised learning
+1. **Semi-Supervised Self-Training of Object Detection Models** 2005 [paper](https://www.ri.cmu.edu/pub_files/pub4/rosenberg_charles_2005_1/rosenberg_charles_2005_1.pdf)
+
+   *Chuck Rosenberg, Martial Hebert, Henry Schneiderman*
+
 ### Abductive learning
 1. **Abductive Knowledge Induction From Raw Data** IJCAI 2020, [paper](https://arxiv.org/pdf/2010.03514.pdf)
     
