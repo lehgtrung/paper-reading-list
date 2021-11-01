@@ -111,6 +111,10 @@
 1. **Neural relation extraction: a survey** arXiv, 2020, [paper](https://arxiv.org/abs/2007.04247)
 
     *Mehmet Aydar, Ozge Bozal, Furkan Ozbay*
+    
+1. **A survey on neural relation extraction** arXviv, 2020, [paper](https://link.springer.com/content/pdf/10.1007/s11431-020-1673-6.pdf)
+
+    *Liu Kang*
 
 1. **NLP-progress: Relationship Extraction** [Link](http://nlpprogress.com/english/relationship_extraction.html)
 
