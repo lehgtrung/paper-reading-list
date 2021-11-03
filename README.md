@@ -77,6 +77,8 @@
 
 
 ### Neural Relation Extraction (NLP)
+1. **Span-based Joint Entity and Relation Extraction with Transformer Pre-training**, ECAI 2020, [paper](https://arxiv.org/pdf/1909.07755v4.pdf)
+
 1. **Graph Convolution over Pruned Dependency Trees Improves Relation Extraction** ACL, 2018, [paper](https://arxiv.org/pdf/1809.10185.pdf)
 
     *Yuhao Zhang,* Peng Qi,* Christopher D. Manning*
