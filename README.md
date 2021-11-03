@@ -105,6 +105,10 @@
 1. **Compensating Supervision Incompleteness with Prior Knowledge in Semantic Image Interpretation** IJCNN 2019 [paper](https://arxiv.org/pdf/1910.00462v1.pdf)
 
    *Ivan Donadello, Luciano Serafini*
+   
+2. **Visual Relationship Detection with Internal and External Linguistic Knowledge Distillation** ICCV 2017 [paper](https://arxiv.org/pdf/1707.09423.pdf)
+
+   *Ruichi Yu, Ang Li, Vlad I. Morariu, Larry S. Davis*
 
 
 ### Survey and general methods
