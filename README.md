@@ -105,6 +105,10 @@
 
     *Yan Xu et al*
     
+1. **Exploiting the Syntax-Model Consistency for Neural Relation Extraction**, ACL 2020 [paper](https://aclanthology.org/2020.acl-main.715.pdf)
+
+    *Amir Pouran Ben Veyseh et al*
+    
 ### Visual Relation Extraction (CV)
 1. **Compensating Supervision Incompleteness with Prior Knowledge in Semantic Image Interpretation** IJCNN 2019 [paper](https://arxiv.org/pdf/1910.00462v1.pdf)
 
