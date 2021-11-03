@@ -101,6 +101,10 @@
 
     *Wenxuan Zhou, Hongtao Lin,  Bill Yuchen Lin, Ziqi Wang*
     
+1. **Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths** ACL 2015, [paper](https://aclanthology.org/D15-1206.pdf)
+
+    *Yan Xu et al*
+    
 ### Visual Relation Extraction (CV)
 1. **Compensating Supervision Incompleteness with Prior Knowledge in Semantic Image Interpretation** IJCNN 2019 [paper](https://arxiv.org/pdf/1910.00462v1.pdf)
 
