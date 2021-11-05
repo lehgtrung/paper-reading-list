@@ -26,6 +26,7 @@
 
 ### Insights papers
 1. **How to Tell Deep Neural Networks What We Know: A Review of Methods for Inclusion of Domain-Knowledge** Arvix, 2021 [paper](https://arxiv.org/pdf/2107.10295.pdf)
+
     *Tirtharaj Dash et al*
 
 ### Classical semi supervised learning
@@ -78,6 +79,10 @@
 1. **Harnessing Deep Neural Networks with Logic Rules** ACL 2016, [paper](http://www.cs.cmu.edu/~epxing/papers/2016/Hu_etal_ACL16.pdf)
 
     *Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric P. Xing*
+    
+1. **Logic Tensor Networks: Deep Learning and Logical Reasoning from Data and Knowledge** Workshop on Neural-Symbolic Learning and Reasoning, 2017, [paper](https://arxiv.org/pdf/1606.04422.pdf)
+
+    *Luciano Serafini and Artur d’Avila Garcez*
 
 
 ### Neural Relation Extraction (NLP)
