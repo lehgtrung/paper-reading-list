@@ -24,6 +24,10 @@
 
 ## Papers
 
+### Insights papers
+1. **How to Tell Deep Neural Networks What We Know: A Review of Methods for Inclusion of Domain-Knowledge** Arvix, 2021 [paper](https://arxiv.org/pdf/2107.10295.pdf)
+    *Tirtharaj Dash et al*
+
 ### Classical semi supervised learning
 1. **Semi-Supervised Self-Training of Object Detection Models** 2005 [paper](https://www.ri.cmu.edu/pub_files/pub4/rosenberg_charles_2005_1/rosenberg_charles_2005_1.pdf)
 
