@@ -154,6 +154,10 @@
     
     *H. D. Gupta and V. S. Sheng*
     
+1. **A Survey on Deep Semi-supervised Learning**, 2021, [paper](https://arxiv.org/pdf/2103.00550.pdf)
+
+    *Xiangli Yang, Zixing Song, Irwin King*
+    
 ### Answer Set Programming
 1. **What Is Answer Set Programming?**, [paper](https://www.cs.utexas.edu/users/vl/papers/wiasp.pdf)
 
