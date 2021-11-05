@@ -24,6 +24,11 @@
 
 ## Papers
 
+### Derivative-free optimization
+1. **Derivative free optimization via repeated classification**, AISTATS, 2018, [paper](https://arxiv.org/pdf/1804.03761.pdf)
+
+    *Hashimoto et al*
+
 ### Insights papers
 1. **How to Tell Deep Neural Networks What We Know: A Review of Methods for Inclusion of Domain-Knowledge** Arvix, 2021 [paper](https://arxiv.org/pdf/2107.10295.pdf)
 
