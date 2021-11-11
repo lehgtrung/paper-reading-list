@@ -36,6 +36,7 @@
 
 ### Knowledge distillation
 1. **Knowledge Distillation Beyond Model Compression** 2020 [paper](https://arxiv.org/pdf/2007.01922.pdf)
+2. 
    *Fahad Sarfraz, Elahe Arani and Bahram Zonooz*
 
 ### Abductive learning
