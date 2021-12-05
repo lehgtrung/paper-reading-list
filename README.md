@@ -163,6 +163,8 @@
 
     *Xiangli Yang, Zixing Song, Irwin King*
     
+1. **Neural Networks Enhancement with Logical Knowledge**, 2021 [paper](https://arxiv.org/pdf/2009.06087.pdf)
+    
 ### Answer Set Programming
 1. **What Is Answer Set Programming?**, [paper](https://www.cs.utexas.edu/users/vl/papers/wiasp.pdf)
 
