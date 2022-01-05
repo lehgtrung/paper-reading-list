@@ -57,6 +57,12 @@
     *Yu-Xuan Huang et al*
     
     Summary: TODO
+    
+1. *Semi-supervised Relation Extraction via Incremental Meta Self-Training* [paper](https://arxiv.org/pdf/2010.16410.pdf)
+
+    *Xuming Hu et al*
+    
+    
 
 ### Neural-sympolic Learning
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** ICLM'2020, [paper](https://arxiv.org/abs/1711.11157)
