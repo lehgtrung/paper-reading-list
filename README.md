@@ -201,3 +201,8 @@ The rules we are trying to incoporate should be in form of integrity constrains 
 1. **Log analysis via space-time pattern matching**, [paper](https://hal.archives-ouvertes.fr/hal-02909936/document)
 
    *Anne Bouillard, Marc-Olivier Buob, Maxime Raynal, Achille Salaün*
+
+## Lecture notes
+1. **Math for computer science (series)**, [Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap09.pdf)
+
+   *MIT*
