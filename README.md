@@ -24,6 +24,10 @@
 
 ## Papers
 
+
+### Self-supervised learning
+1. **VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING**, ICLR 2021, [paper](https://arxiv.org/pdf/2105.04906.pdf)
+
 ### Semi-supervised learning
 1. **FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence**, NeurIPS, 2020, [paper](https://arxiv.org/pdf/2001.07685.pdf)
 
@@ -55,7 +59,7 @@
     
     Summary: TODO
     
-1. *Semi-supervised Relation Extraction via Incremental Meta Self-Training* [paper](https://arxiv.org/pdf/2010.16410.pdf)
+1. **Semi-supervised Relation Extraction via Incremental Meta Self-Training** [paper](https://arxiv.org/pdf/2010.16410.pdf)
 
     *Xuming Hu et al*
     
