@@ -121,6 +121,10 @@
 
     *Amir Pouran Ben Veyseh et al*
     
+1. **Exploiting Syntactico-Semantic Structures for Relation Extraction**, ACL 2011, [paper](https://aclanthology.org/P11-1056.pdf)
+
+    *Yee Seng Chan and Dan Roth*
+    
 ### Visual Relation Extraction (CV)
 1. **Compensating Supervision Incompleteness with Prior Knowledge in Semantic Image Interpretation** IJCNN 2019 [paper](https://arxiv.org/pdf/1910.00462v1.pdf)
 
