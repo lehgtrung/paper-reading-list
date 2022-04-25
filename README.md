@@ -3,7 +3,7 @@
 ## Books
 1. Statistical Inference [PDF](https://mybiostats.files.wordpress.com/2015/03/casella-berger.pdf)
 2. Deep Learning on Graph [Link](https://cse.msu.edu/~mayao4/dlg_book/)
-3. Electric Power System Basics For Non-electrical Professional 2nd Edition, Steve W. Blume
+3. Statistical Relational Learning [Link](https://www.cs.umd.edu/srl-book/)
 
 ## Talks
 1. Beyond NP with Tractable Circuits [Youtube](https://www.youtube.com/watch?v=kdMzmgyLfQs&t=2357s)
@@ -24,15 +24,12 @@
 
 ## Papers
 
-### Derivative-free optimization
-1. **Derivative free optimization via repeated classification**, AISTATS, 2018, [paper](https://arxiv.org/pdf/1804.03761.pdf)
+### Semi-supervised learning
+1. **FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence**, NeurIPS, 2020, [paper](https://arxiv.org/pdf/2001.07685.pdf)
 
-    *Hashimoto et al*
-
-### Insights papers
-1. **How to Tell Deep Neural Networks What We Know: A Review of Methods for Inclusion of Domain-Knowledge** Arvix, 2021 [paper](https://arxiv.org/pdf/2107.10295.pdf)
-
-    *Tirtharaj Dash et al*
+    *Kihyuk Sohn et al*
+    
+2. **MixMatch: A Holistic Approach to Semi-Supervised Learning**, NeurIPS, 2019, [paper](https://arxiv.org/pdf/1905.02249.pdf)
 
 ### Knowledge distillation
 1. **Knowledge Distillation Beyond Model Compression** 2020 [paper](https://arxiv.org/pdf/2007.01922.pdf) 
@@ -61,7 +58,6 @@
 1. *Semi-supervised Relation Extraction via Incremental Meta Self-Training* [paper](https://arxiv.org/pdf/2010.16410.pdf)
 
     *Xuming Hu et al*
-    
     
 
 ### Neural-sympolic Learning
@@ -100,34 +96,14 @@
 1. **Span-based Joint Entity and Relation Extraction with Transformer Pre-training**, ECAI 2020, [paper](https://arxiv.org/pdf/1909.07755v4.pdf)
 
     *Markus Eberts and Adrian Ulges*
-
-1. **Graph Convolution over Pruned Dependency Trees Improves Relation Extraction** ACL, 2018, [paper](https://arxiv.org/pdf/1809.10185.pdf)
-
-    *Yuhao Zhang,* Peng Qi,* Christopher D. Manning*
-    
-1. **Attention Guided Graph Convolutional Networks for Relation Extraction** ACL, 2019, [paper](https://aclanthology.org/P19-1024.pdf)
-
-    *Zhijiang Guo, Yan Zhang and Wei Lu*
-    
-1. **Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks** ACL, 2020, [paper](https://aclanthology.org/2020.acl-main.297.pdf)
-
-    *Bo Zhang, Yue Zhang, Rui Wang, Zhenghua Li, Min Zhang*
-    
-1. **Learning Latent Forests for Medical Relation Extraction** IJCAI, 2020, [paper](https://www.ijcai.org/Proceedings/2020/0505.pdf)
-
-    *Zhijiang Guo1, Guoshun Nan, Wei Lu and Shay B. Cohen*
-    
-1. **Leveraging Dependency Forest for Neural Medical Relation Extraction** EMNLP, 2019, [paper](https://arxiv.org/pdf/1911.04123.pdf)
-
-    *Linfeng Song, Yue Zhang, Daniel Gildea, Mo Yu, Zhiguo Wang and Jinsong Su*
     
 1. **NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction** WWWW, 2020, [paper](https://arxiv.org/pdf/1909.02177.pdf)
 
     *Wenxuan Zhou, Hongtao Lin,  Bill Yuchen Lin, Ziqi Wang*
     
-1. **Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths** ACL 2015, [paper](https://aclanthology.org/D15-1206.pdf)
+1. **A Trigger-Sense Memory Flow Framework for Joint Entity and Relation Extraction** WWW 2021, [paper](https://arxiv.org/pdf/2101.10213.pdf)
 
-    *Yan Xu et al*
+    *Yongliang Shen et al*
     
 1. **Exploiting the Syntax-Model Consistency for Neural Relation Extraction**, ACL 2020 [paper](https://aclanthology.org/2020.acl-main.715.pdf)
 
