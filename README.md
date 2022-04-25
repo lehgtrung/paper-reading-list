@@ -28,6 +28,8 @@
 ### Self-supervised learning
 1. **VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING**, ICLR 2021, [paper](https://arxiv.org/pdf/2105.04906.pdf)
 
+   *Adrien Bardes et al*
+
 ### Semi-supervised learning
 1. **FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence**, NeurIPS, 2020, [paper](https://arxiv.org/pdf/2001.07685.pdf)
 
