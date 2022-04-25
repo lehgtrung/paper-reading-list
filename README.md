@@ -71,6 +71,10 @@
 
     *Xuming Hu et al*
     
+1. **Integrating Deep Learning with Logic Fusion for Information Extraction** [paper](https://arxiv.org/pdf/1912.03041.pdf)
+
+    *Wenya Wang et al*
+    
 
 ### Neural-sympolic Learning
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** ICLM'2020, [paper](https://arxiv.org/abs/1711.11157)
