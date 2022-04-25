@@ -24,6 +24,10 @@
 
 ## Papers
 
+### Knowledge graph
+1. **Knowledge Graph Reasoning with Relational Digraph**, WWW 2022, [paper](https://arxiv.org/pdf/2108.06040.pdf)
+
+   *Yongqi Zhang et al*
 
 ### Self-supervised learning
 1. **VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING**, ICLR 2021, [paper](https://arxiv.org/pdf/2105.04906.pdf)
