@@ -24,10 +24,12 @@
 
 ## Papers
 
-### Knowledge graph
+### Knowledge graph and knowledge base QA
 1. **Knowledge Graph Reasoning with Relational Digraph**, WWW 2022, [paper](https://arxiv.org/pdf/2108.06040.pdf)
 
    *Yongqi Zhang et al*
+   
+2. **A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions**, 2021, [paper](https://arxiv.org/pdf/2105.11644.pdf)
 
 ### Self-supervised learning
 1. **VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING**, ICLR 2021, [paper](https://arxiv.org/pdf/2105.04906.pdf)
