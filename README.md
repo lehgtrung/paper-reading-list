@@ -75,6 +75,9 @@
 
     *Wenya Wang et al*
     
+    
+1. **A Review on Semi-Supervised Relation Extraction** [paper](https://arxiv.org/pdf/2103.07575.pdf)
+    
 
 ### Neural-sympolic Learning
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** ICLM'2020, [paper](https://arxiv.org/abs/1711.11157)
