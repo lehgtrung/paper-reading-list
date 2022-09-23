@@ -31,6 +31,8 @@
    
 2. **A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions**, 2021, [paper](https://arxiv.org/pdf/2105.11644.pdf)
 
+3. **Knowledge Informed Semantic Parsing for Conversational Question Answering**, 2021 [paper](https://assets.amazon.science/ca/f9/bbef16c24f6fbf29059888d54c13/knowledge-informed-semantic-parsing-for-conversational-question-answering.pdf)
+
 ### Self-supervised learning
 1. **VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING**, ICLR 2021, [paper](https://arxiv.org/pdf/2105.04906.pdf)
 
