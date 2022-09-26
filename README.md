@@ -30,7 +30,7 @@
 
 2. **Self-Supervised Generalisation with Meta Auxiliary Learning**, [paper](https://arxiv.org/pdf/1901.08933.pdf)
 
-   Auxiliary tasks are supposed to improve primary task. This paper constructs a label generation network which generates labels for an auxiliary task. The label-generation network is then updated by encouraging auxiliary labels to be chosen such that, if the multi-task network were to be trained using these auxiliary labels, the performance of the primary task would be maximised on this same training data.
+   Auxiliary tasks are supposed to improve primary task but need expert design. This paper constructs a label generation network which automatically generates labels for an auxiliary task. The label generation network is then updated by encouraging auxiliary labels to be chosen such that, if the multi-task network were to be trained using these auxiliary labels, the performance of the primary task would be maximised on this same training data.
 
 ### Knowledge graph and knowledge base QA
 1. **Knowledge Graph Reasoning with Relational Digraph**, WWW 2022, [paper](https://arxiv.org/pdf/2108.06040.pdf)
