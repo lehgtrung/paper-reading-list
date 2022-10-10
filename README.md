@@ -1,5 +1,10 @@
 # papers-courses-books-talks
 
+## Blogs
+1. Learning with not Enough Data Part 1: Semi-Supervised Learning [Link](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/)
+2. Deep Semi-Supervised Learning [Link](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
+3. An overview of proxy-label approaches for semi-supervised learning [Link](https://ruder.io/semi-supervised/index.html)
+
 ## Books
 1. Statistical Inference [PDF](https://mybiostats.files.wordpress.com/2015/03/casella-berger.pdf)
 2. Deep Learning on Graph [Link](https://cse.msu.edu/~mayao4/dlg_book/)
