@@ -63,7 +63,7 @@
 
     *Fahad Sarfraz, Elahe Arani and Bahram Zonooz*
 
-### Abductive learning
+### Semi-supervised learning
 1. **Abductive Knowledge Induction From Raw Data** IJCAI 2020, [paper](https://arxiv.org/pdf/2010.03514.pdf)
     
     *Wang-Zhou Dai , Stephen H. Muggleton*
@@ -92,6 +92,9 @@
     
     
 1. **A Review on Semi-Supervised Relation Extraction** [paper](https://arxiv.org/pdf/2103.07575.pdf)
+
+1. *IN DEFENSE OF PSEUDO-LABELING: AN UNCERTAINTY-AWARE PSEUDO-LABEL SELECTION FRAMEWORK FOR SEMI-SUPERVISED LEARNING* [paper](https://arxiv.org/pdf/2101.06329.pdf) ICLR 2021
+Idea: Calibration aware pseudo labels selection.
     
 
 ### Neural-sympolic Learning
