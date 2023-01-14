@@ -64,6 +64,9 @@
     *Fahad Sarfraz, Elahe Arani and Bahram Zonooz*
 
 ### Semi-supervised learning
+
+1. **Fast Abductive Learning by Similarity-based Consistency Optimization** [paper](https://proceedings.neurips.cc/paper/2021/file/df7e148cabfd9b608090fa5ee3348bfe-Paper.pdf)
+
 1. **Abductive Learning with Ground Knowledge Base** [paper](https://www.ijcai.org/proceedings/2021/0250.pdf)
 
 
