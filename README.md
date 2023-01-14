@@ -64,6 +64,9 @@
     *Fahad Sarfraz, Elahe Arani and Bahram Zonooz*
 
 ### Semi-supervised learning
+1. **Abductive Learning with Ground Knowledge Base** [paper](https://www.ijcai.org/proceedings/2021/0250.pdf)
+
+
 1. **Abductive Knowledge Induction From Raw Data** IJCAI 2020, [paper](https://arxiv.org/pdf/2010.03514.pdf)
     
     *Wang-Zhou Dai , Stephen H. Muggleton*
