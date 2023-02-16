@@ -33,6 +33,7 @@
 1. **THE NEURO-SYMBOLIC CONCEPT LEARNER: INTERPRETING SCENES, WORDS, AND SENTENCES FROM NATURAL SUPERVISION**, [paper](https://arxiv.org/pdf/1904.12584.pdf)
 2. **IS CHATGPT A GENERAL-PURPOSE NATURAL LANGUAGE PROCESSING TASK SOLVER?**, [paper](https://arxiv.org/pdf/2302.06476.pdf).
 3. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**, [paper](https://arxiv.org/pdf/2302.04023.pdf)
+4. **RNNLOGIC: LEARNING LOGIC RULES FOR REASONING ON KNOWLEDGE GRAPHS**, [paper](https://arxiv.org/pdf/2010.04029.pdf)
 
 
 ### Meta learning
