@@ -29,6 +29,12 @@
 
 ## Papers
 
+### Exploration
+1. **THE NEURO-SYMBOLIC CONCEPT LEARNER: INTERPRETING SCENES, WORDS, AND SENTENCES FROM NATURAL SUPERVISION**, [paper](https://arxiv.org/pdf/1904.12584.pdf)
+2. **IS CHATGPT A GENERAL-PURPOSE NATURAL LANGUAGE PROCESSING TASK SOLVER?**, [paper](https://arxiv.org/pdf/2302.06476.pdf).
+3. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**, [paper](https://arxiv.org/pdf/2302.04023.pdf)
+
+
 ### Meta learning
 
 1. **Meta Pseudo Labels**, [paper](https://arxiv.org/pdf/2003.10580.pdf)
