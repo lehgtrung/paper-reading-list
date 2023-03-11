@@ -35,6 +35,8 @@
 2. **IS CHATGPT A GENERAL-PURPOSE NATURAL LANGUAGE PROCESSING TASK SOLVER?**, [paper](https://arxiv.org/pdf/2302.06476.pdf).
 3. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**, [paper](https://arxiv.org/pdf/2302.04023.pdf)
 4. **RNNLOGIC: LEARNING LOGIC RULES FOR REASONING ON KNOWLEDGE GRAPHS**, [paper](https://arxiv.org/pdf/2010.04029.pdf)
+5. **REPLUG: Retrieval-Augmented Black-Box Language Models**, [paper](https://arxiv.org/pdf/2301.12652.pdf)
+6. **Abductive Learning with Ground Knowledge Base**, [paper](http://www.lamda.nju.edu.cn/huangyx/src/IJCAI21-GABL.pdf)
 
 
 ### Meta learning
