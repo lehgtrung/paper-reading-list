@@ -119,6 +119,29 @@ The rules we are trying to incoporate should be in form of integrity constrains 
 
 
 ## MISO
+### Association rules mining
+1. **Discovering Association Rules of Mode-Dependent Alarms From Alarm and Event Logs**, [paper](https://sci-hub.ru/https://ieeexplore.ieee.org/document/7921590)
+2. **Association rules mining based analysis of consequential alarm sequences in chemical processes**, [paper](https://sci-hub.ru/https://www.sciencedirect.com/science/article/abs/pii/S0950423016300778)
+3. **Process Mining for Alarm Rationalization and Fault Patterns Identification**, [paper](https://sci-hub.ru/10.1109/etfa.2012.6489695)
+4. **Aiding Alarm Rationalization by Automatic Identification of various sequential patterns in large volume of Alarm and Event log data**, [paper](https://iopscience.iop.org/article/10.1088/1757-899X/778/1/012092/pdf)
+5. **Methodology and Application of Pattern Mining in Multiple Alarm Flood Sequences**, [paper](https://reader.elsevier.com/reader/sd/pii/S2405896315011246)
+6. **Online pattern matching and prediction of incoming alarm floods**, [paper](https://sci-hub.ru/https://www.sciencedirect.com/science/article/abs/pii/S0959152417300100)
+7. **Process Discovery of Operator Actions in Response to Univariate Alarms**, [paper](https://www.sciencedirect.com/science/article/pii/S2405896316305444)
+8. **Detection of Temporal Dependencies in Alarm Time Series of Industrial Plants**, [paper](https://www.sciencedirect.com/science/article/pii/S1474667016418744)
+
+### Clustering
+1. **Detection of Correlated Alarms Based on Similarity Coefficients of Binary Data**, [paper](https://sci-hub.ru/https://ieeexplore.ieee.org/document/6485001)
+2. **Online Alarm Flood Classification Using Alarm Coactivations**, [paper](https://www.sciencedirect.com/science/article/pii/S2405896318320068)
+3. **IPL2 and 3 performance improvement method for process safety using event
+correlation analysis**, [paper](https://sci-hub.hkvisa.net/10.1016/j.compchemeng.2010.07.029)
+4. **Graphical Representation of Industrial Alarm Data**, [paper](https://www.sciencedirect.com/science/article/pii/S1474667015325283)
+5. **Graphical tools for routine assessment of industrial alarm systems**, [paper](https://sci-hub.hkvisa.net/10.1016/j.compchemeng.2012.06.042)
+6. **Similarity Analysis of Industrial Alarm Flood Data**, [paper](https://sci-hub.hkvisa.net/10.1109/tase.2012.2230627)
+
+### Nuisance alarm removal
+1. **A method to remove chattering alarms using median filters** [paper](https://sci-hub.ru/https://www.sciencedirect.com/science/article/abs/pii/S0019057817306286)
+
+
 1. **Log analysis via space-time pattern matching**, [paper](https://hal.archives-ouvertes.fr/hal-02909936/document)
 
    *Anne Bouillard, Marc-Olivier Buob, Maxime Raynal, Achille Salaün*
