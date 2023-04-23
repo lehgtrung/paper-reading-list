@@ -40,7 +40,7 @@
 
 
 ### Knowledge graph and Link prediction
-1. Link Prediction Based on Graph Neural Networks, [paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf)
+1. Link Prediction Based on Graph Neural Networks, [paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf)\\
 Use GNN to learn subgraph heuristics (common neighbors, Jaccard, preferential attachment,...) and use those statistics to infer hidden links.
 
 3. **Knowledge Informed Semantic Parsing for Conversational Question Answering**, 2021 [paper](https://assets.amazon.science/ca/f9/bbef16c24f6fbf29059888d54c13/knowledge-informed-semantic-parsing-for-conversational-question-answering.pdf)
