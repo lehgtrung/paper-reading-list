@@ -39,6 +39,13 @@
 6. **Abductive Learning with Ground Knowledge Base**, [paper](http://www.lamda.nju.edu.cn/huangyx/src/IJCAI21-GABL.pdf)
 
 
+### ILP
+1. **Differentiable Learning of Logical Rules for Knowledge Base Reasoning**, [paper](https://arxiv.org/pdf/1702.08367.pdf)
+2. **RNNLOGIC: LEARNING LOGIC RULES FOR REASONING ON KNOWLEDGE GRAPHS**, [paper](https://arxiv.org/pdf/2010.04029.pdf)
+3. **Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks**, [paper](https://arxiv.org/pdf/2112.03324.pdf)
+
+
+
 ### Knowledge graph and Link prediction
 1. Link Prediction Based on Graph Neural Networks, [paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf)\
 Use GNN to learn subgraph heuristics (common neighbors, Jaccard, preferential attachment,...) and use those statistics to infer hidden links.
