@@ -127,6 +127,7 @@ The rules we are trying to incoporate should be in form of integrity constrains 
 
 ## MISO
 ### Association rules mining
+1. **Detection of Frequent Alarm Patterns in Industrial Alarm Floods Using Itemset Mining Methods**, [paper](https://sci-hub.hkvisa.net/10.1109/TIE.2018.2795573)
 1. **Discovering Association Rules of Mode-Dependent Alarms From Alarm and Event Logs**, [paper](https://sci-hub.ru/https://ieeexplore.ieee.org/document/7921590)
 2. **Association rules mining based analysis of consequential alarm sequences in chemical processes**, [paper](https://sci-hub.ru/https://www.sciencedirect.com/science/article/abs/pii/S0950423016300778)
 3. **Process Mining for Alarm Rationalization and Fault Patterns Identification**, [paper](https://sci-hub.ru/10.1109/etfa.2012.6489695)
