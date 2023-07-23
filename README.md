@@ -124,6 +124,12 @@ Learning with rules: The core idea of neural symbollic integration is that we us
 The rules we are trying to incoporate should be in form of integrity constrains which means a list conjunct literals that implies FALSE. For example, in Visual Relationship Detection (VDR) the visual relationship <person, ride, horse> is expressed with the atomic formulas Person(p1), Horse(h1) and ride(p1, h1). Common knowledge is expressed through logical constraints, e.g., ∀x, y(ride(x, y) → ¬Dog(x)) states that dogs do not ride.
 
 
+## LLMs
+1. **DSP: Discriminative Soft Prompts for Zero-Shot Entity and Relation** [paper](https://aclanthology.org/2023.findings-acl.339.pdf)
+
+2. **Leveraging Large Language Models to Generate Answer Set Programs** [paper](https://arxiv.org/pdf/2307.07699.pdf)
+
+3. **Distilling Large Language Models for Biomedical Knowledge Extraction: A Case Study on Adverse Drug Events** [paper](https://arxiv.org/pdf/2307.06439.pdf)
 
 ## MISO
 ### Association rules mining
