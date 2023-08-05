@@ -91,6 +91,8 @@ Automatically learning sub-classes via meta-learning and use the learned data&su
 
 1. **DeepProbLog: Neural Probabilistic Logic Programming**, [paper](https://arxiv.org/pdf/1805.10872.pdf)
 
+2. **A Critical Review of Inductive Logic Programming Techniques for Explainable AI**[paper](https://arxiv.org/pdf/2112.15319.pdf)
+
 
 ### Neural Relation Extraction (NLP)
 1. **Span-based Joint Entity and Relation Extraction with Transformer Pre-training**, ECAI 2020, [paper](https://arxiv.org/pdf/1909.07755v4.pdf)
