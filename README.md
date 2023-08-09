@@ -135,6 +135,8 @@ The rules we are trying to incoporate should be in form of integrity constrains 
 
 4. **A Survey of Large Language Models** [paper](https://arxiv.org/pdf/2303.18223.pdf)
 
+5. **AgentBench: Evaluating LLMs as Agents** [paper](https://arxiv.org/pdf/2308.03688.pdf)
+
 ## MISO
 ### Association rules mining
 1. **Detection of Frequent Alarm Patterns in Industrial Alarm Floods Using Itemset Mining Methods**, [paper](https://sci-hub.hkvisa.net/10.1109/TIE.2018.2795573)
