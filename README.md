@@ -93,6 +93,8 @@ Automatically learning sub-classes via meta-learning and use the learned data&su
 
 2. **A Critical Review of Inductive Logic Programming Techniques for Explainable AI**[paper](https://arxiv.org/pdf/2112.15319.pdf)
 
+3. **NEUROSYMBOLIC AI AND ITS TAXONOMY: A SURVEY** [paper](https://arxiv.org/pdf/2305.08876.pdf)
+
 
 ### Neural Relation Extraction (NLP)
 1. **Span-based Joint Entity and Relation Extraction with Transformer Pre-training**, ECAI 2020, [paper](https://arxiv.org/pdf/1909.07755v4.pdf)
