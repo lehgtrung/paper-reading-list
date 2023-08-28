@@ -37,6 +37,7 @@
 4. **RNNLOGIC: LEARNING LOGIC RULES FOR REASONING ON KNOWLEDGE GRAPHS**, [paper](https://arxiv.org/pdf/2010.04029.pdf)
 5. **REPLUG: Retrieval-Augmented Black-Box Language Models**, [paper](https://arxiv.org/pdf/2301.12652.pdf)
 6. **Abductive Learning with Ground Knowledge Base**, [paper](http://www.lamda.nju.edu.cn/huangyx/src/IJCAI21-GABL.pdf)
+7. **AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts** [paper](https://aclanthology.org/2020.emnlp-main.346.pdf)
 
 
 ### ILP
