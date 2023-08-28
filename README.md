@@ -38,6 +38,9 @@
 5. **REPLUG: Retrieval-Augmented Black-Box Language Models**, [paper](https://arxiv.org/pdf/2301.12652.pdf)
 6. **Abductive Learning with Ground Knowledge Base**, [paper](http://www.lamda.nju.edu.cn/huangyx/src/IJCAI21-GABL.pdf)
 7. **AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts** [paper](https://aclanthology.org/2020.emnlp-main.346.pdf)
+8. **Ruleformer: Context-aware Rule Mining over Knowledge Graph** [paper](https://aclanthology.org/2022.coling-1.225.pdf)
+9. **RLogic: Recursive Logical Rule Learning from Knowledge Graphs** [paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539421)
+10. **Relational Message Passing for Knowledge Graph Completion** [paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467247)
 
 
 ### ILP
