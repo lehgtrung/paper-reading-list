@@ -27,6 +27,12 @@
 
 4. **Berkeley Deep Learning: CS 182 Spring 2021**
     * [Youtube playlist](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+  
+5. **Deep Reinforcement Learning: CS 285 Fall 2021**
+    * [Youtube playlist](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
+  
+6. **MIT RES.6-012 Introduction to Probability, Spring 2018**
+    * [Youtube playlist](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&si=Xn4FmgnIsnN6NQVG)
 
 ## Papers
 
@@ -43,10 +49,13 @@
 10. **Relational Message Passing for Knowledge Graph Completion** [paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467247)
 
 
-### ILP
-1. **Differentiable Learning of Logical Rules for Knowledge Base Reasoning**, [paper](https://arxiv.org/pdf/1702.08367.pdf)
-2. **RNNLOGIC: LEARNING LOGIC RULES FOR REASONING ON KNOWLEDGE GRAPHS**, [paper](https://arxiv.org/pdf/2010.04029.pdf)
-3. **Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks**, [paper](https://arxiv.org/pdf/2112.03324.pdf)
+### Knowledge graph reasoning
+1. **NeuralLP: Differentiable Learning of Logical Rules for Knowledge Base Reasoning**, [paper](https://arxiv.org/pdf/1702.08367.pdf)
+2. **DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs**, [paper](https://arxiv.org/pdf/1911.00055.pdf)
+3. **RNNLOGIC: LEARNING LOGIC RULES FOR REASONING ON KNOWLEDGE GRAPHS**, [paper](https://arxiv.org/pdf/2010.04029.pdf)
+4. **RLogic: Recursive Logical Rule Learning from Knowledge Graphs**, [paper](https://web.cs.ucla.edu/~yzsun/papers/2022_KDD_RLogic.pdf)
+5. **NEURAL COMPOSITIONAL RULE LEARNING FOR KNOWLEDGE GRAPH REASONING**, [paper](https://arxiv.org/pdf/2303.03581.pdf)
+6. **LOGICAL ENTITY REPRESENTATION IN KNOWLEDGEGRAPHS FOR DIFFERENTIABLE RULE LEARNING**, [paper](https://arxiv.org/pdf/2305.12738.pdf)
 
 
 
