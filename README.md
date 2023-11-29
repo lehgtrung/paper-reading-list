@@ -14,6 +14,7 @@
 1. Beyond NP with Tractable Circuits [Youtube](https://www.youtube.com/watch?v=kdMzmgyLfQs&t=2357s)
 2. Bridging Machine Learning and Logical Reasoning by Abductive Learning [Youtube](https://www.youtube.com/watch?v=ETHrFxiFIUM&t=2752s)
 3. Building Neural Network Models That Can Reason [Youtube](https://www.youtube.com/watch?v=-2JRiv3Mycs&ab_channel=MicrosoftResearch)
+4. Logic-based Learning for Interpretable AI [Slides](https://www.dropbox.com/scl/fi/8eomnhhvyrx1zni67hm95/20-LBL-of-Definite-Programs.pdf?rlkey=53tp65k4drcqpgzibxzd8xpwi&dl=0)
 
 ## Courses
 1. **CS264A Automated Reasoning., UCLA** 
