@@ -9,12 +9,14 @@
 1. Statistical Inference [PDF](https://mybiostats.files.wordpress.com/2015/03/casella-berger.pdf)
 2. Deep Learning on Graph [Link](https://cse.msu.edu/~mayao4/dlg_book/)
 3. Statistical Relational Learning [Link](https://www.cs.umd.edu/srl-book/)
+4. Knowledge Representation and Reasoning by Hector Levesque and Ronald J. Brachman
 
 ## Talks
 1. Beyond NP with Tractable Circuits [Youtube](https://www.youtube.com/watch?v=kdMzmgyLfQs&t=2357s)
 2. Bridging Machine Learning and Logical Reasoning by Abductive Learning [Youtube](https://www.youtube.com/watch?v=ETHrFxiFIUM&t=2752s)
 3. Building Neural Network Models That Can Reason [Youtube](https://www.youtube.com/watch?v=-2JRiv3Mycs&ab_channel=MicrosoftResearch)
 4. Logic-based Learning for Interpretable AI [Slides](https://www.dropbox.com/scl/fi/8eomnhhvyrx1zni67hm95/20-LBL-of-Definite-Programs.pdf?rlkey=53tp65k4drcqpgzibxzd8xpwi&dl=0)
+5. Knowledge Representation and Reasoning [Slides](https://www.cs.toronto.edu/~hector/PublicKRSlides.pdf)
 
 ## Courses
 1. **CS264A Automated Reasoning., UCLA** 
